@@ -1,0 +1,39 @@
+MOVIE TICKET REPORT
+****************************
+Movie: Napoleon
+Number of Tickets: 3
+Ticket Price: R100
+Total Price: R342.00
+****************************
+MOVIE TICKET REPORT
+****************************
+Movie: Napoleon
+Number of Tickets: 3
+Ticket Price: R100
+Total Price: R342.00
+****************************
+
+MOVIE TICKET REPORT
+****************************
+Movie: Oppenheimer
+Number of Tickets: 3
+Ticket Price: R200
+Total Price: R684.00
+****************************
+
+*****************************************MOVIE TICKET REPORT
+**************************************************Movie: Napoleon
+Number of Tickets: 3
+Ticket Price: 100.0
+Total Price: 342.00
+*******************************************
+--------------------------------------------------
+
+*****************************************
+MOVIE TICKET REPORT
+**************************************************
+Movie: Napoleon
+Number of Tickets: 10
+Ticket Price: 300.0
+Total Price: 3420.00
+*******************************************
